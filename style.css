@@ -9,3 +9,8 @@ padding: 10px;
 font-size: 32px;
 color: aliceblue;
 }
+section{background: yellow;
+padding-bottom: 80px;
+display: flex;
+justify-content: center;
+}
